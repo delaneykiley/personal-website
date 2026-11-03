@@ -57,6 +57,7 @@ export function CallingCard() {
             Delaney
           </h1>
           <p className="text-lg text-slate-600">Software engineer</p>
+          <p className="text-sm text-slate-500">Chicago, IL</p>
         </div>
       </header>
 
